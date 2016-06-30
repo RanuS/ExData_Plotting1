@@ -55,7 +55,7 @@ Pre-Requisites
  Rcurl package
 Just download the files into your home directory and run the R files.
 
-Note these codes assumes that the zip file is named hpc.zip so make sure you have renamed it if you have downoaded the dataset.
+Note these codes assumes that the zip file is named power.zip so make sure you have renamed it if you have downoaded the dataset.
 
 ## Making Plots
 
